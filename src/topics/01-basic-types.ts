@@ -16,7 +16,7 @@ console.log(age);
 console.log(weight);
 console.log(weight2);
 
-const ageText = '31;
+const ageText = '31';
 console.log('parseInt => ', parseInt(ageText));
 
 //#endregion
